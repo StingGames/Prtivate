@@ -1,2 +1,2 @@
-# Prtivate
+# Private
 LMAO
